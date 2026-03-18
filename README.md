@@ -7,6 +7,8 @@
 [![Platform](https://img.shields.io/badge/platform-macOS-lightgrey.svg)](#-相关配置-configuration)
 [![Live Demo](https://img.shields.io/badge/demo-Live%20Showcase-E63946.svg)](docs/index.html)
 
+**中文版** | [English Version](README_EN.md)
+
 ---
 
 ## 🌐 在线展示页 (Live Showcase)
