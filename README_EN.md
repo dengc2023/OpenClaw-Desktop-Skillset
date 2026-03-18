@@ -11,6 +11,17 @@
 
 ---
 
+## 🌐 Live Showcase
+
+> **"Experience the precision of OpenClaw-Desktop-Skillset in our interactive showcase."**
+
+We have built a dedicated showcase website for this project, featuring full-skill demo videos and interactive introductions:
+👉 **[Click to Access Live Showcase](https://dengc2023.github.io/OpenClaw-Desktop-Skillset/docs/index.html)**
+
+![Website Preview](imgs/web_preview.png)
+
+---
+
 ## 🧐 Why This Project? (The "Why")
 
 As AI professionals, we face **massive information overload** and **fragmented tasks** every day:
