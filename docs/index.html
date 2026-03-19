@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,6 +10,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
 </head>
+
 <body>
     <nav>
         <div class="container">
@@ -44,13 +46,13 @@
                 <!-- 演示 1: 自动阅读 -->
                 <div class="video-card">
                     <div class="video-wrapper">
-                        <video controls poster="https://via.placeholder.com/640x360/1D3557/F1FAEE?text=WeChat+OA+Reader">
+                        <video controls
+                            poster="https://via.placeholder.com/640x360/1D3557/F1FAEE?text=WeChat+OA+Reader">
                             <source src="../examples/demos/wechat-oa-reader-demo.mp4" type="video/mp4">
                         </video>
                     </div>
                     <div class="video-info">
                         <h3>📖 懒人必备：公众号自动阅读</h3>
-                        <p>自动搜索、精准定位标题、模拟滚动阅读并生成总结。展现长链路推理能力。</p>
                     </div>
                 </div>
 
@@ -63,20 +65,19 @@
                     </div>
                     <div class="video-info">
                         <h3>🤳 懒人社交：自动发朋友圈</h3>
-                        <p>自动识别相机、跨应用文件选择、自动发布。支持电脑原图直发，解放双手。</p>
                     </div>
                 </div>
 
                 <!-- 演示 3: 搜索并发送 -->
                 <div class="video-card">
                     <div class="video-wrapper">
-                        <video controls poster="https://via.placeholder.com/640x360/457B9D/F1FAEE?text=Search+Pick+Send">
+                        <video controls
+                            poster="https://via.placeholder.com/640x360/457B9D/F1FAEE?text=Search+Pick+Send">
                             <source src="../examples/demos/wechat-search-pick-send-demo.mp4" type="video/mp4">
                         </video>
                     </div>
                     <div class="video-info">
-                        <h3>📁 精准搜索：一键搜人发文件</h3>
-                        <p>视觉决策智能识别目标、自动进入聊天、支持自动压缩文件夹并发送。</p>
+                        <h3>📁 精准搜索：一键搜人发消息发文件</h3>
                     </div>
                 </div>
             </div>
@@ -121,10 +122,27 @@
         </div>
     </section>
 
+    <section id="roadmap" class="setup" style="background: white; color: var(--text);">
+        <div class="container">
+            <h2 class="section-title">后续规划 (Roadmap)</h2>
+            <div class="feature-grid" style="text-align: left;">
+                <div class="feature-card" style="background: #f8f9fa;">
+                    <h4>🚀 技能融合与全自动运营</h4>
+                    <p>结合现有的阅读总结与自动发布能力，探索**全自动文案撰写与微信公众号运营**，实现从内容采集到分发的全链路自动化。</p>
+                </div>
+                <div class="feature-card" style="background: #f8f9fa;">
+                    <h4>📱 远程指令与移动端联动</h4>
+                    <p>通过 OpenClaw 核心，开发手机端交互插件，让您随时随地通过语音或指令驱动桌面端助手。</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <footer>
         <div class="container">
             <p>© 2026 OpenClaw-WeChat-Assistant. Powered by OpenClaw Engine 🦞</p>
         </div>
     </footer>
 </body>
+
 </html>

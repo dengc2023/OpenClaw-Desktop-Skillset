@@ -1,6 +1,6 @@
 # 🦞 OpenClaw-WeChat-Assistant
 
-> **OpenClaw WeChat Assistant: Your 24/7 Digital Twin for AI Professionals.**
+> **OpenClaw WeChat Assistant: Your 24/7 Digital Twin for AI Enthusiasts.**
 
 [![Version](https://img.shields.io/badge/version-0.1.0--alpha-blue.svg)](VERSION)
 [![Powered by](https://img.shields.io/badge/powered%20by-OpenClaw-orange.svg)](https://github.com/OpenClaw/openclaw)
@@ -16,7 +16,7 @@
 > **"Experience the precision of OpenClaw-WeChat-Assistant in our interactive showcase."**
 
 We have built a dedicated showcase website for this project, featuring full-skill demo videos and interactive introductions:
-👉 **[Click to Access Live Showcase](https://dengc2023.github.io/OpenClaw-WeChat-Assistant/docs/index.html)**
+👉 **[Click to Access Live Showcase](https://dengc2023.github.io/OpenClaw-WeChat-Assistant/docs/index.html)** | 🖼️ **[View Project Poster](https://github.com/1716757342/WeClaw_poster/blob/main/README.md)**
 
 ![Website Preview](imgs/web_preview.png)
 
@@ -24,7 +24,7 @@ We have built a dedicated showcase website for this project, featuring full-skil
 
 ## 🧐 Why This Project? (The "Why")
 
-As AI professionals, we face **massive information overload** and **fragmented tasks** every day:
+As AI enthusiasts, we face **massive information overload** and **fragmented tasks** every day:
 - **Information Overload**: WeChat Official Accounts (OAs) are our core channel for industry trends, paper reviews, and technical insights. However, manually clicking, reading, and organizing is time-consuming and often leads to missing critical updates.
 - **Cross-Device Fragmentation**: We often encounter "phone is not around" or "away from my desk, but need to send a large file/image from my PC to a friend."
 
@@ -90,4 +90,12 @@ Traditional automation relies on official APIs. However, for highly closed deskt
 
 ---
 
-**Experience OpenClaw now and start your era of smart social!**
+## 🛠️ Roadmap
+
+- **Full-Chain Skill Fusion**: Combining OA summarization with auto-posting/messaging to achieve **automated copywriting and intelligent WeChat Official Account operations**.
+- **Enhanced Generalization**: Optimizing visual adaptation algorithms to support precision operations across more resolutions and complex UI backgrounds.
+- **Remote Intelligent Interaction**: Developing mobile-based command plugins to allow users to control their desktop "Lobster Assistant" anytime, anywhere.
+
+---
+
+## 🤝 Contribution & Competition Support

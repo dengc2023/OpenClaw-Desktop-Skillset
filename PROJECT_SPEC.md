@@ -1,19 +1,20 @@
 # 🦞 OpenClaw-WeChat-Assistant 项目说明书
 
-> **为 AI 从业者打造的微信自动化技能集：无 API 环境下的纯视觉驱动探索。**
+> **为 AI 兴趣者打造的微信自动化技能集：无 API 环境下的纯视觉驱动探索。**
 
 ---
 
 ## 🔗 项目资源 (Project Resources)
 
 - **GitHub 仓库**: [https://github.com/dengc2023/OpenClaw-WeChat-Assistant](https://github.com/dengc2023/OpenClaw-WeChat-Assistant)
-- **在线演示页 (GitHub Pages)**: [https://dengc2023.github.io/OpenClaw-WeChat-Assistant/docs/index.html](https://dengc2023.github.io/OpenClaw-WeChat-Assistant/docs/index.html)
+- **在线演示页**: [https://dengc2023.github.io/OpenClaw-WeChat-Assistant/docs/index.html](https://dengc2023.github.io/OpenClaw-WeChat-Assistant/docs/index.html)
+- **项目精美海报**: [https://github.com/1716757342/WeClaw_poster/blob/main/README.md](https://github.com/1716757342/WeClaw_poster/blob/main/README.md)
 
 ---
 
 ## 1. 项目背景与定位 (Background & Vision)
 
-作为 AI 从业者，我们每天面临着**海量的前沿信息**和**跨设备的碎片化任务**。由于国民级应用微信在桌面端**高度封闭，没有任何官方开放 API**，传统的接口调用或爬虫方案彻底失效。
+作为 AI 兴趣者，我们每天面临着**海量的前沿信息**和**跨设备的碎片化任务**。由于国民级应用微信在桌面端**高度封闭，没有任何官方开放 API**，传统的接口调用或爬虫方案彻底失效。
 
 为了解决这一痛点，**OpenClaw-WeChat-Assistant** 选择了一条最困难但也最彻底的路径：**视觉驱动 (Vision-Driven)**。基于 OpenClaw 的 VLA（视觉-语言-动作）架构，本项目像一个坐在电脑前的真实人类一样：
 - **“看” (Perception)**: 全屏截图，通过 OCR 和 OpenCV 模板匹配识别 UI 元素。
@@ -96,9 +97,9 @@
 
 ## 4. 后续规划 (Roadmap)
 
-1. **环境泛化提升**: 加入基于 YOLO 或 GroundingDINO 的零样本跨平台 (Windows/Linux) UI组件识别引擎，摆脱分辨率依赖。
-2. **多模态长文本输入能力**: 结合语音转文字大模型，直接在桌面进行语音派单给 OpenClaw 发布复合指令。
-
+1. **功能闭环与自动化运营**: 探索现有技术的深度融合。例如，结合“公众号搜索总结”与“自动朋友圈/消息发布”，实现**全自动文案撰写与微信生态运营**（从信息采集到内容分发的自动化驾驶）。
+2. **环境泛化提升**: 加入基于视觉的零样本 UI 组件识别引擎，进一步提升在不同分辨率下的适配精度。
+3. **多模态交互**: 结合语音转文字大模型，实现通过语音指令直接驱动 OpenClaw 执行复合社交任务。
 ---
 
 **"Let OpenClaw handle the reading, while you focus on the leading."**

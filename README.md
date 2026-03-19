@@ -1,6 +1,6 @@
 # 🦞 OpenClaw-WeChat-Assistant
 
-> **OpenClaw 微信全自动化助手：为 AI 从业者打造的全天候“数字分身”。**
+> **OpenClaw 微信全自动化助手：为 AI 兴趣者打造的全天候“数字分身”。**
 
 [![Version](https://img.shields.io/badge/version-0.1.0--alpha-blue.svg)](VERSION)
 [![Powered by](https://img.shields.io/badge/powered%20by-OpenClaw-orange.svg)](https://github.com/OpenClaw/openclaw)
@@ -16,7 +16,7 @@
 > **"Experience the precision of OpenClaw-WeChat-Assistant in our interactive showcase."**
 
 我们为本项目打造了一个专属的展示网页，包含全技能的演示视频和交互式介绍：
-👉 **[点击访问在线演示页](https://dengc2023.github.io/OpenClaw-WeChat-Assistant/docs/index.html)**
+👉 **[点击访问在线演示页](https://dengc2023.github.io/OpenClaw-WeChat-Assistant/docs/index.html)** | 🖼️ **[查看项目精美海报](https://github.com/1716757342/WeClaw_poster/blob/main/README.md)**
 
 ![Website Preview](imgs/web_preview.png)
 
@@ -24,7 +24,7 @@
 
 ## 🧐 为什么需要这个项目？ (The "Why")
 
-作为 AI 从业者，我们每天面临着**海量的前沿信息**和**繁杂的碎片化任务**：
+作为 AI 兴趣者，我们每天面临着**海量的前沿信息**和**繁杂的碎片化任务**：
 - **信息过载**: 微信公众号是我们获取行业动态、论文解读、技术干货的核心渠道。但手动点开、翻阅、整理非常耗时，且往往在忙碌中错过重要内容。
 - **多端断流**: 我们经常遇到“手机不在身边”或“人在身边，想发电脑里的某个大文件/图片给朋友”的窘境。
 
@@ -103,6 +103,14 @@
 ### 3. 屏幕与缩放 (Retina 校准)
 - **核心逻辑**: 针对 macOS Retina 屏幕（2x 缩放），截图获取的像素坐标需进行 **`/2`** 处理后方才传给 `cliclick` 使用。本项目内置脚本已自动处理此逻辑。
 - **界面设置**: 建议微信客户端设置为“全屏模式”以保证视觉锚点的稳定性。
+
+---
+
+## 🛠️ 后续规划 (Roadmap)
+
+- **技能全链路融合**: 结合“公众号搜索总结”与“自动朋友圈/发消息”，实现**全自动文案生成与微信公众号智能运营**。
+- **环境泛化提升**: 优化视觉自适应算法，支持在更多分辨率和复杂 UI 背景下的精准操作。
+- **远程智能交互**: 开发手机端指令下发插件，让用户随时随地操控电脑端“龙虾助理”。
 
 ---
 
